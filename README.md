@@ -9,9 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/i.m_hanan" target="blank"><img align="center" src="https://github.com/Hanan3000/Hanan3000/blob/main/Assets/New-Instagram-logo.jpg" alt="i.m_hanan" height="50" width="50" /></a> INSTAGRAM
-</p>
-<a href="https://t.me/hanan_3000" target="blank"><img align="center" src="https://github.com/Hanan3000/Hanan3000/blob/main/Assets/telegram-icon-telegram-logo-11563072765e0pl0xsrfe.png" alt="anan" height="50" width="50" /></a> TELEGRAM
+<a href="https://instagram.com/i.m_hanan" target="blank"><img align="center" src="https://github.com/Hanan3000/Hanan3000/blob/main/Assets/New-Instagram-logo.jpg" alt="INSTAGRAM" height="50" width="50" /></a>
+<a href="https://t.me/hanan_3000" target="blank"><img align="center" src="https://github.com/Hanan3000/Hanan3000/blob/main/Assets/telegram-icon-telegram-logo-11563072765e0pl0xsrfe.png" alt="TELEGRAM" height="50" width="50" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
