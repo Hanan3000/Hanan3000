@@ -1,13 +1,13 @@
 ![Banner](https://github.com/Hanan3000/Hanan3000/blob/main/Assets/RealBanner.png) 
-<h1 align="center">a passionate self taught developer and pentester</h1>
+<h1 align="center">a passionate self taught developer and pentester (was)</h1> 
 <img align="right" alt="Coding" width="400" src="https://github.com/Hanan3000/Hanan3000/blob/main/Assets/coding-freak.gif">
 
 
-- 🌱 I’m currently learning **rust**
-- 🌱 I’m currently learning **Android development**
-- 📫 How to reach me **hananthe.dl@gmail.com**
+- 🌱 I’m currently _not_ learning **rust**
+- 🌱 I’m currently _not_ learning **Android development**
+- 📫 How to reach me **hananthe.dl@gmail.com** (Ded email,dont even try)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:(No you can't) :)</h3>
 <p align="left">
 <a href="https://instagram.com/i.m_hanan" target="blank"><img align="center" src="https://github.com/Hanan3000/Hanan3000/blob/main/Assets/New-Instagram-logo.jpg" alt="INSTAGRAM" height="50" width="50" /></a>
 <a href="https://t.me/hanan_3000" target="blank"><img align="center" src="https://github.com/Hanan3000/Hanan3000/blob/main/Assets/telegram-icon-telegram-logo-11563072765e0pl0xsrfe.png" alt="TELEGRAM" height="50" width="50" /></a>
