@@ -1,6 +1,6 @@
 ![Banner](https://github.com/Hanan3000/Hanan3000/blob/main/Assets/RealBanner.png) 
-<h1 align="center">a passionate self taught developer and pentester (was)</h1> 
-<img align="right" alt="Coding" width="400" src="https://github.com/Hanan3000/Hanan3000/blob/main/Assets/coding-freak.gif">
+<h1 align="left">a passionate self taught developer and pentester (was)</h1> 
+<img align="center" alt="Coding" width="400" src="https://github.com/Hanan3000/Hanan3000/blob/main/Assets/images%20(2).jpeg">
 
 
 - 🌱 I’m currently _not_ learning **rust**
