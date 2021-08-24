@@ -1,4 +1,4 @@
-![Banner](https://github.com/Hanan3000/Hanan3000/blob/main/Assets/RealBanner.png) 
+<!--- ![Banner](https://github.com/Hanan3000/Hanan3000/blob/main/Assets/RealBanner.png) 
 <h1 align="left">a passionate self taught developer and pentester (was)</h1> 
 <img align="center" alt="Coding" width="400" src="https://github.com/Hanan3000/Hanan3000/blob/main/Assets/images%20(2).jpeg">
 
