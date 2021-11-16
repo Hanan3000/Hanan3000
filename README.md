@@ -1,7 +1,6 @@
-![Banner](https://github.com/Hanan3000/Hanan3000/blob/main/Assets/RealBanner.png) 
+<!-- ![Banner](https://github.com/Hanan3000/Hanan3000/blob/main/Assets/RealBanner.png)  -->
 
-
-
+<h2>Hello There, I am Hanan. </h2>
 
 ```python
 #!/usr/bin/python
@@ -30,9 +29,9 @@ me.say_hi()
 <img align="center" alt="Coding" width="400" src="https://github.com/Hanan3000/Hanan3000/blob/main/Assets/images%20(2).jpeg">
 
 
-- 🌱 I’m currently learning **rust**
-- 🌱 I’m currently learning **Android development**
-- 📫 How to reach me **hananthe.dl@gmail.com** 
+- I’m currently learning **rust**
+- I’m currently learning **Android development**
+- How to reach me **hananthe.dl@gmail.com** 
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
