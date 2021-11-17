@@ -1,6 +1,6 @@
-<!-- ![Banner](https://github.com/Hanan3000/Hanan3000/blob/main/Assets/RealBanner.png)  -->
+<img align=center src= "https://64.media.tumblr.com/1993611ce04fe4531d26aad331367f52/cbbf9f977dfbe609-47/s540x810/26013585d53edde0266d09b007b8e85139353e3b.gifv" > 
 
-<h2>Hello There, I am Hanan. </h2>
+<h1 align="center">𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 </h1>
 
 ```python
 #!/usr/bin/python
@@ -10,8 +10,10 @@
 class SoftwareEngineer:
 
     def __init__(self):
-        self.name = "Hanan"
-        self.role = "Programmer and Pentester"
+        self.name   = "Hanan"
+        self.gender = "Male"
+        self.hobby  = "Photography"
+        self.role   = "Programmer and Pentester"
         self.language_spoken = ["en_US"]
 
     def say_hi(self):
@@ -25,25 +27,31 @@ me.say_hi()
 
 
 
+<!---
+ img align="center" alt="Coding" width="400" src="https://github.com/Hanan3000/Hanan3000/blob/main/Assets/images%20(2).jpeg" --> 
 
-<img align="center" alt="Coding" width="400" src="https://github.com/Hanan3000/Hanan3000/blob/main/Assets/images%20(2).jpeg">
+<h2 align="center">𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 </h2>
+<p>
+
+<div>
+  <p align="center"><img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>  <br>
+ <img src="https://img.shields.io/badge/java%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Python%20-%23323330.svg?&style=for-the-badge&logo=Python&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
+
+    
+    
+<h2 align= "center" >𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮  </h2>
+
+<br>
+
+<p align="center"><a href="https://instagram.com/hanan._.3000" target="_blank"><img src="https://img.shields.io/badge/Hanan%20-%231DA1F2.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a> <a href="https://t.me/Hanan_3000" target="_blank"><img src="https://img.shields.io/badge/Hanan_3000%20-%237289DA.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a></p>
+<p align="center"><a href="https://hanan3000.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website%20-%239146FF.svg?&style=for-the-badge&logo=browser&logoColor=white"/></a></p>
+</div>
 
 
-- I’m currently learning **rust**
-- I’m currently learning **Android development**
-- How to reach me **hananthe.dl@gmail.com** 
 
-<h3 align="left">Connect with me: </h3>
-<p align="left">
-<a href="https://instagram.com/i.m_hanan" target="blank"><img align="center" src="https://github.com/Hanan3000/Hanan3000/blob/main/Assets/New-Instagram-logo.jpg" alt="INSTAGRAM" height="50" width="50" /></a>
-<a href="https://t.me/hanan_3000" target="blank"><img align="center" src="https://github.com/Hanan3000/Hanan3000/blob/main/Assets/telegram-icon-telegram-logo-11563072765e0pl0xsrfe.png" alt="TELEGRAM" height="50" width="50" /></a>
-</p>
-<h4 align="left">WEBSITE: <a href="https://hanan3000.github.io" > Click Here </a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  </p>
 
-![Hanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanan3000&hide=contribs,prs)
+
+
+
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/Hanan3000/Hanan3000/blob/main/Assets/leave.svg" />
 <br />
