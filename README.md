@@ -60,5 +60,5 @@ me.say_hi()
 
 
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/Hanan3000/Hanan3000/blob/main/Assets/leave.svg" />
-<br />
+<img height="220" alt="Thanks for visiting me" width="100%" src="https://github.com/Hanan3000/Hanan3000/blob/main/Assets/leave.svg" />
+
