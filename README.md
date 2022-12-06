@@ -41,8 +41,8 @@ me.say_hi()
 
 <br>
 
-<p align="center"><a href="https://instagram.com/hanan._.3000" target="_blank"><img src="https://img.shields.io/badge/Hanan%20-%231DA1F2.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a> <a href="https://t.me/Hanan_3000" target="_blank"><img src="https://img.shields.io/badge/Hanan_3000%20-%237289DA.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a></p>
-<p align="center"><a href="https://hanan3000.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website%20-%239146FF.svg?&style=for-the-badge&logo=browser&logoColor=white"/></a></p>
+<p align="center"><a href="https://instagram.com/hanan._.3000" target="_blank"><img src="https://img.shields.io/badge/Hanan%20-%231DA1F2.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a> <a href="https://t.me/rHanan" target="_blank"><img src="https://img.shields.io/badge/rHanan%20-%237289DA.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a></p>
+<p align="center"><a href="https://hanan3000.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/Website%20-%239146FF.svg?&style=for-the-badge&logo=browser&logoColor=white"/></a></p>
 </div>
 
 <img height="220" alt="Thanks for visiting me" width="100%" src="https://github.com/Hanan3000/Hanan3000/blob/main/Assets/leave.svg" />
